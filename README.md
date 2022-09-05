@@ -1,2 +1,3 @@
 # meep
-this is basic moderation for discord
+
+basic ping pong bot for learning 
